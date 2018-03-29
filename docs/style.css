@@ -1,0 +1,52 @@
+.flex-container {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.flex-item {
+	text-align: center;
+	font-size: 36px;
+	flex: 15%;
+	max-width: 15%;
+	padding: 4px 4px;
+	position: relative;
+}
+
+img {
+	max-height: 48px;
+}
+
+img.pokemon-img {
+	max-height: 64px;
+	max-width: 64px;
+}
+
+table {
+	max-width: 80%;
+	font-size: 18px;
+}
+
+td {
+	padding: 4px 16px;
+}
+
+td.pokemon-img {
+	text-align: center;
+	vertical-align: middle;
+}
+
+div[data-owned] {
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	pointer-events: none;
+	background-image: url("https://cdn.rawgit.com/twitter/twemoji/gh-pages/svg/1f4af.svg");
+	opacity: 0.75;
+	background-size: auto;
+	background-repeat: no-repeat;
+	background-position: center;
+	z-index: 9999;
+
+}
