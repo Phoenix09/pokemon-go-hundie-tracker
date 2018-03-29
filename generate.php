@@ -15,10 +15,10 @@ function get_image_url($i, $form=NULL) {
 		} else {
 			switch ($form) {
 				case "!":
-					$f = 27;
+					$f = 37;
 					break;
 				case "?":
-					$f = 28;
+					$f = 38;
 					break;
 				default:
 					$f = ord(strtoupper($form)) - ord('A') + 11;
