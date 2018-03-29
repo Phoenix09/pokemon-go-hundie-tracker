@@ -90,6 +90,13 @@ echo <<<EOT
 <script src="script.js"></script>
 </head>
 <body>
+<table id="stats">
+<tr><th colspan="5">Statistics</th></tr>
+<tr><th>&nbsp;</th><th>Owned</th><th>&nbsp;</th><th>Total</th></tr>
+<tr title="This count does not include genders/forms"><td class="stats-label">Species</td><td class="stats-species-owned"></td><td class="stats-divider">/</td><td class="stats-total-species"></td></tr>
+<tr title="This count includes genders/forms"><td class="stats-label">All</td><td class="stats-owned"></td><td class="stats-divider">/</td><td class="stats-total-all"></td></tr>
+</table>
+<br>
 <table>
 <tr><th>&nbsp;</th><th>Pokémon</th><th>&nbsp;</th></tr>
 

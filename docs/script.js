@@ -27,6 +27,7 @@ $(function() {
 			div.attr("data-owned", "");
 			localStorage.setItem(getPokemonKey(this), 1);
 		}
+		updateStats();
 	});
 
 	$("img.pokemon-img").on("error", function() {
@@ -43,4 +44,19 @@ $(function() {
 			}
 		});
 	});
+
+	updateStats();
 });
+
+function updateStats() {
+	var total_species = $("tr[data-pid]").length;
+	var total_all = $(".flex-item").length;
+	var owned = $(".flex-item > div[data-owned]").length;
+	var species_owned = $("tr[data-pid]:has(div[data-owned])").length;
+
+	var stats = $("#stats");
+	stats.find("td.stats-owned").text(owned);
+	stats.find("td.stats-species-owned").text(species_owned);
+	stats.find("td.stats-total-species").text(total_species);
+	stats.find("td.stats-total-all").text(total_all);
+}

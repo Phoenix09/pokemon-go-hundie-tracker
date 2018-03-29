@@ -50,3 +50,14 @@ div[data-owned] {
 	z-index: 9999;
 
 }
+
+#stats th, td {
+	text-align: center;
+	vertical-align: middle;
+	font-size: 1em;
+	padding: 4px;
+}
+
+td.stats-divider {
+	font-size: 2em;
+}

@@ -7,6 +7,6 @@ clean:
 	$(RM) index.html
 
 test:
-	php -S 0.0.0.0:7777
+	php -S 0.0.0.0:7776
 
 .PHONY: all clean test
