@@ -1,6 +1,6 @@
 function getPokemonKey (e) {
 	var pid = $(e).closest("tr").attr("data-pid");
-	
+
 	var gender = $(e).attr("data-gender");
 	if (gender != "Genderless" && gender != undefined) {
 		gender = "_" + gender;
@@ -13,7 +13,7 @@ function getPokemonKey (e) {
 	} else {
 		form = "";
 	}
-	
+
 	return "pokemon" + pid + form + gender;
 }
 $(function() {
@@ -28,12 +28,12 @@ $(function() {
 			localStorage.setItem(getPokemonKey(this), 1);
 		}
 	});
-	
+
 	$("img.pokemon-img").on("error", function() {
 		var pid = $(this).closest("tr").attr("data-pid");
 		$(this).attr("src", "https://assets.pokemon.com/assets/cms2/img/pokedex/full/" + pid + ".png");
 	});
-	
+
 	// Load saved data
 	$("tr[data-pid]").each(function() {
 		$(this).find(".flex-item").each(function() {
