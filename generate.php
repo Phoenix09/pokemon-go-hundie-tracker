@@ -1,5 +1,6 @@
 <?php
 error_reporting(E_ALL);
+require_once(__DIR__ . DIRECTORY_SEPARATOR . "shiny.php");
 $pokemons = json_decode(file_get_contents(__DIR__ . DIRECTORY_SEPARATOR . "pokemon.json"), true);
 
 
@@ -74,10 +75,14 @@ function flexbox($inner) {
 
 function flexitem($item, $attrs=array()) {
 	$new = array();
+	$shiny = "";
 	foreach ($attrs as $k => $v) {
+		if ($k == "data-shiny") {
+			$shiny = '<div class="shiny"></div>';
+		}
 		$new[] = sprintf('%s="%s"', $k, $v);
 	}
-	return sprintf('<div class="flex-item" %s><div class="owned"></div>%s</div>', implode(" ", $new), $item);
+	return sprintf('<div class="flex-item" %s><div class="owned"></div>%s%s</div>', implode(" ", $new), $item, $shiny);
 }
 
 echo <<<EOT
@@ -106,19 +111,24 @@ foreach ($pokemons as $id => $pokemon) {
 	$forms = array();
 	$genders = array();
 	$content = "";
+	$shiny = can_be_shiny($id);
+
 	if (count($pokemon["forms"])) {
 		for ($i = 0; $i < count($pokemon["forms"]); $i++) {
 			$fid = $i + 1;
 			$form_name = $pokemon["forms"][$i];
 			if ($id == 201) {
 				$forms[] = flexitem(get_form_image($id, $form_name) ."<br>". $form_name, array("data-form-name" => $form_name));
+				if ($shiny) $forms[] = flexitem(get_form_image($id, $form_name) ."<br>". $form_name, array("data-form-name" => $form_name, "data-shiny" => ""));
 			} else {
 				if ($pokemon["genders"][0] != "Genderless") {
 					foreach ($pokemon["genders"] as $gender) {
 						$forms[] = flexitem(get_form_image($id, $form_name) ."<br>". get_gender_image($gender), array("data-form-name" => $form_name, "data-gender" => $gender));
+						if ($shiny) $forms[] = flexitem(get_form_image($id, $form_name) ."<br>". get_gender_image($gender), array("data-form-name" => $form_name, "data-gender" => $gender, "data-shiny" => ""));
 					}
 				} else {
 					$forms[] = flexitem($form_name, array("data-form-name" => $form_name));
+					if ($shiny) $forms[] = flexitem($form_name, array("data-form-name" => $form_name, "data-shiny" => ""));
 				}
 			}
 		}
@@ -126,6 +136,7 @@ foreach ($pokemons as $id => $pokemon) {
 	} else {
 		foreach ($pokemon["genders"] as $gender) {
 			$genders[] = flexitem(get_gender_image($gender), array("data-gender" => $gender));
+			if ($shiny) $genders[] = flexitem(get_gender_image($gender), array("data-gender" => $gender, "data-shiny" => ""));
 		}
 		$content = flexbox($genders);
 	}

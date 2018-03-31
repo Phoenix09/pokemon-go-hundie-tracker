@@ -14,7 +14,14 @@ function getPokemonKey (e) {
 		form = "";
 	}
 
-	return "pokemon" + pid + form + gender;
+	var shiny = $(e).attr("data-shiny");
+	if (shiny !== undefined && shiny !== null) {
+		shiny = "_shiny";
+	} else {
+		shiny = "";
+	}
+
+	return "pokemon" + pid + form + gender + shiny;
 }
 $(function() {
 	$("div.flex-item").click(function () {
