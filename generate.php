@@ -1,7 +1,7 @@
 <?php
 error_reporting(E_ALL);
-require_once(__DIR__ . DIRECTORY_SEPARATOR . "shiny.php");
 $pokemons = json_decode(file_get_contents(__DIR__ . DIRECTORY_SEPARATOR . "pokemon.json"), true);
+$shinies = json_decode(file_get_contents(__DIR__ . DIRECTORY_SEPARATOR . "shinies.json"), true);
 
 
 function get_form_image($i, $form=NULL) {
@@ -83,6 +83,15 @@ function flexitem($item, $attrs=array()) {
 		$new[] = sprintf('%s="%s"', $k, $v);
 	}
 	return sprintf('<div class="flex-item" %s><div class="owned"></div>%s%s</div>', implode(" ", $new), $item, $shiny);
+}
+
+function can_be_shiny($pid) {
+	global $shinies;
+
+	if (in_array($pid, $shinies)) {
+		return true;
+	}
+	return false;
 }
 
 echo <<<EOT

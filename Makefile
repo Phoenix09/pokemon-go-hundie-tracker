@@ -1,6 +1,7 @@
-all:
+all: shinies.json
 	make -C docs $@
 
-%:
-	make -C docs $@
+shinies.json:
+	php shiny.php
 
+.PHONY: shinies.json

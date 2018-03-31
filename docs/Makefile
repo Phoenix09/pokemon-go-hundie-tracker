@@ -1,6 +1,6 @@
 all: index.html
 
-index.html: ../generate.php ../pokemon.json
+index.html: ../generate.php ../pokemon.json ../shinies.json
 	php ../generate.php > index.html
 
 clean:

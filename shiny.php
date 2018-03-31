@@ -1,16 +1,30 @@
 <?php
 error_reporting(E_ALL);
 
+$shiniesfile = __DIR__."/shinies.json";
+
 $master = "https://api.github.com/repos/ZeChrales/PogoAssets/git/trees/master";
 
-$data = curl_get($master);
-$json = json_decode($data, true);
+$timestamp = (int) shell_exec("git log -1 --format=%at shinies.json");
+$arr = curl_get($master, $timestamp);
+if ($arr["info"]["http_code"] === 304) {
+	echo "Shiny data up-to-date\n";
+	exit;
+}
+
+$json = json_decode($arr["data"], true);
 
 $k = array_search("decrypted_assets", array_column($json["tree"], "path"));
 $decrypted_assets = $json["tree"][$k]["url"];
 
-$data = curl_get($decrypted_assets);
-$json = json_decode($data, true);
+$arr = curl_get($decrypted_assets, $timestamp);
+if ($arr["info"]["http_code"] === 304) {
+	echo "Shiny data up-to-date\n";
+	exit;
+}
+$timestamp = $arr["info"]["filetime"];
+
+$json = json_decode($arr["data"], true);
 
 $shinies = array();
 foreach ($json["tree"] as $e) {
@@ -20,27 +34,28 @@ foreach ($json["tree"] as $e) {
 	}
 }
 
-$shinies = array_unique($shinies);
+$shinies = array_values(array_unique($shinies));
 
-function curl_get($url) {
+$fp = fopen($shiniesfile, "w");
+fwrite($fp, json_encode($shinies, JSON_PRETTY_PRINT));
+fclose($fp);
+touch($shiniesfile, $timestamp);
+
+echo "Shiny data updated\n";
+
+
+// Functions
+function curl_get($url, $timestamp=0) {
 	$ch = curl_init($url);
 	curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 	curl_setopt($ch, CURLOPT_USERAGENT, "Phoenix09");
+	curl_setopt($ch, CURLOPT_TIMEVALUE, $timestamp);
+	curl_setopt($ch, CURLOPT_TIMECONDITION, CURL_TIMECOND_IFMODSINCE);
+	curl_setopt($ch, CURLOPT_FILETIME, true);
 	$ret = curl_exec($ch);
 	if ($ret !== false) {
-		return $ret;
+		return array("data" => $ret, "info" => curl_getinfo($ch));
 	}
 	echo curl_error($ch) ."\n";
-	return false;
-}
-
-function can_be_shiny($pid) {
-	global $shinies;
-	if ($pid >= 1 && $pid <= 3) {
-		return true;
-	}
-	if (in_array($pid, $shinies)) {
-		return true;
-	}
 	return false;
 }
