@@ -43,7 +43,7 @@ function get_image_url($i, $form=NULL) {
 				$f = 11;
 		}
 	}
-	return sprintf("https://cdn.rawgit.com/RealAwkwardPig/PogoAssets/b8d55031/decrypted_assets/pokemon_icon_%03d_%02d.png", $i, $f);
+	return sprintf("https://cdn.rawgit.com/RealAwkwardPig/PogoAssets/0de98fbe/decrypted_assets/pokemon_icon_%03d_%02d.png", $i, $f);
 }
 
 function get_gender_image($gender) {
