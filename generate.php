@@ -10,6 +10,8 @@ function get_form_image($i, $form=NULL) {
 
 function get_image_url($i, $form=NULL) {
 	$f = 0;
+
+	// Unown
 	if ($i == 201) {
 		if ($form == NULL) {
 			$f = 16;
@@ -27,6 +29,7 @@ function get_image_url($i, $form=NULL) {
 		}
 	}
 
+	// Castform
 	if ($i == 351) {
 		switch ($form) {
 			case "Sunny":
@@ -43,7 +46,16 @@ function get_image_url($i, $form=NULL) {
 				$f = 11;
 		}
 	}
-	return sprintf("https://cdn.rawgit.com/RealAwkwardPig/PogoAssets/0de98fbe/decrypted_assets/pokemon_icon_%03d_%02d.png", $i, $f);
+
+	// Alolan Forms
+	if ($form == "Alola") {
+		if ($i == 103) {
+			$f = 61;
+		} else {
+			return sprintf("https://assets.pokemon.com/assets/cms2/img/pokedex/full/%03d_f2.png", $i);
+		}
+	}
+	return sprintf("https://cdn.rawgit.com/RealAwkwardPig/PogoAssets/d00cb18/decrypted_assets/pokemon_icon_%03d_%02d.png", $i, $f);
 }
 
 function get_gender_image($gender) {
@@ -64,7 +76,7 @@ function get_gender_image($gender) {
 function get_img($url, $alt, $class_name=NULL) {
 	$class = "";
 	if (!empty($class_name)) {
-		$class = sprintf('class=%s', $class_name);
+		$class = sprintf('class="%s"', $class_name);
 	}
 	return sprintf('<img %s src="%s" alt="%3$s" title="%3$s"/>', $class, $url, $alt);
 }

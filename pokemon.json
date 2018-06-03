@@ -1,1 +1,3106 @@
-{"001": {"name": "Bulbasaur", "genders": ["Female", "Male"], "forms": []}, "002": {"name": "Ivysaur", "genders": ["Female", "Male"], "forms": []}, "003": {"name": "Venusaur", "genders": ["Female", "Male"], "forms": []}, "004": {"name": "Charmander", "genders": ["Female", "Male"], "forms": []}, "005": {"name": "Charmeleon", "genders": ["Female", "Male"], "forms": []}, "006": {"name": "Charizard", "genders": ["Female", "Male"], "forms": []}, "007": {"name": "Squirtle", "genders": ["Female", "Male"], "forms": []}, "008": {"name": "Wartortle", "genders": ["Female", "Male"], "forms": []}, "009": {"name": "Blastoise", "genders": ["Female", "Male"], "forms": []}, "010": {"name": "Caterpie", "genders": ["Female", "Male"], "forms": []}, "011": {"name": "Metapod", "genders": ["Female", "Male"], "forms": []}, "012": {"name": "Butterfree", "genders": ["Female", "Male"], "forms": []}, "013": {"name": "Weedle", "genders": ["Female", "Male"], "forms": []}, "014": {"name": "Kakuna", "genders": ["Female", "Male"], "forms": []}, "015": {"name": "Beedrill", "genders": ["Female", "Male"], "forms": []}, "016": {"name": "Pidgey", "genders": ["Female", "Male"], "forms": []}, "017": {"name": "Pidgeotto", "genders": ["Female", "Male"], "forms": []}, "018": {"name": "Pidgeot", "genders": ["Female", "Male"], "forms": []}, "019": {"name": "Rattata", "genders": ["Female", "Male"], "forms": []}, "020": {"name": "Raticate", "genders": ["Female", "Male"], "forms": []}, "021": {"name": "Spearow", "genders": ["Female", "Male"], "forms": []}, "022": {"name": "Fearow", "genders": ["Female", "Male"], "forms": []}, "023": {"name": "Ekans", "genders": ["Female", "Male"], "forms": []}, "024": {"name": "Arbok", "genders": ["Female", "Male"], "forms": []}, "025": {"name": "Pikachu", "genders": ["Female", "Male"], "forms": []}, "026": {"name": "Raichu", "genders": ["Female", "Male"], "forms": []}, "027": {"name": "Sandshrew", "genders": ["Female", "Male"], "forms": []}, "028": {"name": "Sandslash", "genders": ["Female", "Male"], "forms": []}, "029": {"name": "Nidoran\u2640", "genders": ["Female"], "forms": []}, "030": {"name": "Nidorina", "genders": ["Female"], "forms": []}, "031": {"name": "Nidoqueen", "genders": ["Female"], "forms": []}, "032": {"name": "Nidoran\u2642", "genders": ["Male"], "forms": []}, "033": {"name": "Nidorino", "genders": ["Male"], "forms": []}, "034": {"name": "Nidoking", "genders": ["Male"], "forms": []}, "035": {"name": "Clefairy", "genders": ["Female", "Male"], "forms": []}, "036": {"name": "Clefable", "genders": ["Female", "Male"], "forms": []}, "037": {"name": "Vulpix", "genders": ["Female", "Male"], "forms": []}, "038": {"name": "Ninetales", "genders": ["Female", "Male"], "forms": []}, "039": {"name": "Jigglypuff", "genders": ["Female", "Male"], "forms": []}, "040": {"name": "Wigglytuff", "genders": ["Female", "Male"], "forms": []}, "041": {"name": "Zubat", "genders": ["Female", "Male"], "forms": []}, "042": {"name": "Golbat", "genders": ["Female", "Male"], "forms": []}, "043": {"name": "Oddish", "genders": ["Female", "Male"], "forms": []}, "044": {"name": "Gloom", "genders": ["Female", "Male"], "forms": []}, "045": {"name": "Vileplume", "genders": ["Female", "Male"], "forms": []}, "046": {"name": "Paras", "genders": ["Female", "Male"], "forms": []}, "047": {"name": "Parasect", "genders": ["Female", "Male"], "forms": []}, "048": {"name": "Venonat", "genders": ["Female", "Male"], "forms": []}, "049": {"name": "Venomoth", "genders": ["Female", "Male"], "forms": []}, "050": {"name": "Diglett", "genders": ["Female", "Male"], "forms": []}, "051": {"name": "Dugtrio", "genders": ["Female", "Male"], "forms": []}, "052": {"name": "Meowth", "genders": ["Female", "Male"], "forms": []}, "053": {"name": "Persian", "genders": ["Female", "Male"], "forms": []}, "054": {"name": "Psyduck", "genders": ["Female", "Male"], "forms": []}, "055": {"name": "Golduck", "genders": ["Female", "Male"], "forms": []}, "056": {"name": "Mankey", "genders": ["Female", "Male"], "forms": []}, "057": {"name": "Primeape", "genders": ["Female", "Male"], "forms": []}, "058": {"name": "Growlithe", "genders": ["Female", "Male"], "forms": []}, "059": {"name": "Arcanine", "genders": ["Female", "Male"], "forms": []}, "060": {"name": "Poliwag", "genders": ["Female", "Male"], "forms": []}, "061": {"name": "Poliwhirl", "genders": ["Female", "Male"], "forms": []}, "062": {"name": "Poliwrath", "genders": ["Female", "Male"], "forms": []}, "063": {"name": "Abra", "genders": ["Female", "Male"], "forms": []}, "064": {"name": "Kadabra", "genders": ["Female", "Male"], "forms": []}, "065": {"name": "Alakazam", "genders": ["Female", "Male"], "forms": []}, "066": {"name": "Machop", "genders": ["Female", "Male"], "forms": []}, "067": {"name": "Machoke", "genders": ["Female", "Male"], "forms": []}, "068": {"name": "Machamp", "genders": ["Female", "Male"], "forms": []}, "069": {"name": "Bellsprout", "genders": ["Female", "Male"], "forms": []}, "070": {"name": "Weepinbell", "genders": ["Female", "Male"], "forms": []}, "071": {"name": "Victreebel", "genders": ["Female", "Male"], "forms": []}, "072": {"name": "Tentacool", "genders": ["Female", "Male"], "forms": []}, "073": {"name": "Tentacruel", "genders": ["Female", "Male"], "forms": []}, "074": {"name": "Geodude", "genders": ["Female", "Male"], "forms": []}, "075": {"name": "Graveler", "genders": ["Female", "Male"], "forms": []}, "076": {"name": "Golem", "genders": ["Female", "Male"], "forms": []}, "077": {"name": "Ponyta", "genders": ["Female", "Male"], "forms": []}, "078": {"name": "Rapidash", "genders": ["Female", "Male"], "forms": []}, "079": {"name": "Slowpoke", "genders": ["Female", "Male"], "forms": []}, "080": {"name": "Slowbro", "genders": ["Female", "Male"], "forms": []}, "081": {"name": "Magnemite", "genders": ["Genderless"], "forms": []}, "082": {"name": "Magneton", "genders": ["Genderless"], "forms": []}, "083": {"name": "Farfetch'd", "genders": ["Female", "Male"], "forms": []}, "084": {"name": "Doduo", "genders": ["Female", "Male"], "forms": []}, "085": {"name": "Dodrio", "genders": ["Female", "Male"], "forms": []}, "086": {"name": "Seel", "genders": ["Female", "Male"], "forms": []}, "087": {"name": "Dewgong", "genders": ["Female", "Male"], "forms": []}, "088": {"name": "Grimer", "genders": ["Female", "Male"], "forms": []}, "089": {"name": "Muk", "genders": ["Female", "Male"], "forms": []}, "090": {"name": "Shellder", "genders": ["Female", "Male"], "forms": []}, "091": {"name": "Cloyster", "genders": ["Female", "Male"], "forms": []}, "092": {"name": "Gastly", "genders": ["Female", "Male"], "forms": []}, "093": {"name": "Haunter", "genders": ["Female", "Male"], "forms": []}, "094": {"name": "Gengar", "genders": ["Female", "Male"], "forms": []}, "095": {"name": "Onix", "genders": ["Female", "Male"], "forms": []}, "096": {"name": "Drowzee", "genders": ["Female", "Male"], "forms": []}, "097": {"name": "Hypno", "genders": ["Female", "Male"], "forms": []}, "098": {"name": "Krabby", "genders": ["Female", "Male"], "forms": []}, "099": {"name": "Kingler", "genders": ["Female", "Male"], "forms": []}, "100": {"name": "Voltorb", "genders": ["Genderless"], "forms": []}, "101": {"name": "Electrode", "genders": ["Genderless"], "forms": []}, "102": {"name": "Exeggcute", "genders": ["Female", "Male"], "forms": []}, "103": {"name": "Exeggutor", "genders": ["Female", "Male"], "forms": []}, "104": {"name": "Cubone", "genders": ["Female", "Male"], "forms": []}, "105": {"name": "Marowak", "genders": ["Female", "Male"], "forms": []}, "106": {"name": "Hitmonlee", "genders": ["Male"], "forms": []}, "107": {"name": "Hitmonchan", "genders": ["Male"], "forms": []}, "108": {"name": "Lickitung", "genders": ["Female", "Male"], "forms": []}, "109": {"name": "Koffing", "genders": ["Female", "Male"], "forms": []}, "110": {"name": "Weezing", "genders": ["Female", "Male"], "forms": []}, "111": {"name": "Rhyhorn", "genders": ["Female", "Male"], "forms": []}, "112": {"name": "Rhydon", "genders": ["Female", "Male"], "forms": []}, "113": {"name": "Chansey", "genders": ["Female"], "forms": []}, "114": {"name": "Tangela", "genders": ["Female", "Male"], "forms": []}, "115": {"name": "Kangaskhan", "genders": ["Female"], "forms": []}, "116": {"name": "Horsea", "genders": ["Female", "Male"], "forms": []}, "117": {"name": "Seadra", "genders": ["Female", "Male"], "forms": []}, "118": {"name": "Goldeen", "genders": ["Female", "Male"], "forms": []}, "119": {"name": "Seaking", "genders": ["Female", "Male"], "forms": []}, "120": {"name": "Staryu", "genders": ["Genderless"], "forms": []}, "121": {"name": "Starmie", "genders": ["Genderless"], "forms": []}, "122": {"name": "Mr. Mime", "genders": ["Female", "Male"], "forms": []}, "123": {"name": "Scyther", "genders": ["Female", "Male"], "forms": []}, "124": {"name": "Jynx", "genders": ["Female"], "forms": []}, "125": {"name": "Electabuzz", "genders": ["Female", "Male"], "forms": []}, "126": {"name": "Magmar", "genders": ["Female", "Male"], "forms": []}, "127": {"name": "Pinsir", "genders": ["Female", "Male"], "forms": []}, "128": {"name": "Tauros", "genders": ["Male"], "forms": []}, "129": {"name": "Magikarp", "genders": ["Female", "Male"], "forms": []}, "130": {"name": "Gyarados", "genders": ["Female", "Male"], "forms": []}, "131": {"name": "Lapras", "genders": ["Female", "Male"], "forms": []}, "132": {"name": "Ditto", "genders": ["Genderless"], "forms": []}, "133": {"name": "Eevee", "genders": ["Female", "Male"], "forms": []}, "134": {"name": "Vaporeon", "genders": ["Female", "Male"], "forms": []}, "135": {"name": "Jolteon", "genders": ["Female", "Male"], "forms": []}, "136": {"name": "Flareon", "genders": ["Female", "Male"], "forms": []}, "137": {"name": "Porygon", "genders": ["Genderless"], "forms": []}, "138": {"name": "Omanyte", "genders": ["Female", "Male"], "forms": []}, "139": {"name": "Omastar", "genders": ["Female", "Male"], "forms": []}, "140": {"name": "Kabuto", "genders": ["Female", "Male"], "forms": []}, "141": {"name": "Kabutops", "genders": ["Female", "Male"], "forms": []}, "142": {"name": "Aerodactyl", "genders": ["Female", "Male"], "forms": []}, "143": {"name": "Snorlax", "genders": ["Female", "Male"], "forms": []}, "144": {"name": "Articuno", "genders": ["Genderless"], "forms": []}, "145": {"name": "Zapdos", "genders": ["Genderless"], "forms": []}, "146": {"name": "Moltres", "genders": ["Genderless"], "forms": []}, "147": {"name": "Dratini", "genders": ["Female", "Male"], "forms": []}, "148": {"name": "Dragonair", "genders": ["Female", "Male"], "forms": []}, "149": {"name": "Dragonite", "genders": ["Female", "Male"], "forms": []}, "150": {"name": "Mewtwo", "genders": ["Genderless"], "forms": []}, "151": {"name": "Mew", "genders": ["Genderless"], "forms": []}, "152": {"name": "Chikorita", "genders": ["Female", "Male"], "forms": []}, "153": {"name": "Bayleef", "genders": ["Female", "Male"], "forms": []}, "154": {"name": "Meganium", "genders": ["Female", "Male"], "forms": []}, "155": {"name": "Cyndaquil", "genders": ["Female", "Male"], "forms": []}, "156": {"name": "Quilava", "genders": ["Female", "Male"], "forms": []}, "157": {"name": "Typhlosion", "genders": ["Female", "Male"], "forms": []}, "158": {"name": "Totodile", "genders": ["Female", "Male"], "forms": []}, "159": {"name": "Croconaw", "genders": ["Female", "Male"], "forms": []}, "160": {"name": "Feraligatr", "genders": ["Female", "Male"], "forms": []}, "161": {"name": "Sentret", "genders": ["Female", "Male"], "forms": []}, "162": {"name": "Furret", "genders": ["Female", "Male"], "forms": []}, "163": {"name": "Hoothoot", "genders": ["Female", "Male"], "forms": []}, "164": {"name": "Noctowl", "genders": ["Female", "Male"], "forms": []}, "165": {"name": "Ledyba", "genders": ["Female", "Male"], "forms": []}, "166": {"name": "Ledian", "genders": ["Female", "Male"], "forms": []}, "167": {"name": "Spinarak", "genders": ["Female", "Male"], "forms": []}, "168": {"name": "Ariados", "genders": ["Female", "Male"], "forms": []}, "169": {"name": "Crobat", "genders": ["Female", "Male"], "forms": []}, "170": {"name": "Chinchou", "genders": ["Female", "Male"], "forms": []}, "171": {"name": "Lanturn", "genders": ["Female", "Male"], "forms": []}, "172": {"name": "Pichu", "genders": ["Female", "Male"], "forms": []}, "173": {"name": "Cleffa", "genders": ["Female", "Male"], "forms": []}, "174": {"name": "Igglybuff", "genders": ["Female", "Male"], "forms": []}, "175": {"name": "Togepi", "genders": ["Female", "Male"], "forms": []}, "176": {"name": "Togetic", "genders": ["Female", "Male"], "forms": []}, "177": {"name": "Natu", "genders": ["Female", "Male"], "forms": []}, "178": {"name": "Xatu", "genders": ["Female", "Male"], "forms": []}, "179": {"name": "Mareep", "genders": ["Female", "Male"], "forms": []}, "180": {"name": "Flaaffy", "genders": ["Female", "Male"], "forms": []}, "181": {"name": "Ampharos", "genders": ["Female", "Male"], "forms": []}, "182": {"name": "Bellossom", "genders": ["Female", "Male"], "forms": []}, "183": {"name": "Marill", "genders": ["Female", "Male"], "forms": []}, "184": {"name": "Azumarill", "genders": ["Female", "Male"], "forms": []}, "185": {"name": "Sudowoodo", "genders": ["Female", "Male"], "forms": []}, "186": {"name": "Politoed", "genders": ["Female", "Male"], "forms": []}, "187": {"name": "Hoppip", "genders": ["Female", "Male"], "forms": []}, "188": {"name": "Skiploom", "genders": ["Female", "Male"], "forms": []}, "189": {"name": "Jumpluff", "genders": ["Female", "Male"], "forms": []}, "190": {"name": "Aipom", "genders": ["Female", "Male"], "forms": []}, "191": {"name": "Sunkern", "genders": ["Female", "Male"], "forms": []}, "192": {"name": "Sunflora", "genders": ["Female", "Male"], "forms": []}, "193": {"name": "Yanma", "genders": ["Female", "Male"], "forms": []}, "194": {"name": "Wooper", "genders": ["Female", "Male"], "forms": []}, "195": {"name": "Quagsire", "genders": ["Female", "Male"], "forms": []}, "196": {"name": "Espeon", "genders": ["Female", "Male"], "forms": []}, "197": {"name": "Umbreon", "genders": ["Female", "Male"], "forms": []}, "198": {"name": "Murkrow", "genders": ["Female", "Male"], "forms": []}, "199": {"name": "Slowking", "genders": ["Female", "Male"], "forms": []}, "200": {"name": "Misdreavus", "genders": ["Female", "Male"], "forms": []}, "201": {"name": "Unown", "genders": ["Genderless"], "forms": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z", "!", "?"]}, "202": {"name": "Wobbuffet", "genders": ["Female", "Male"], "forms": []}, "203": {"name": "Girafarig", "genders": ["Female", "Male"], "forms": []}, "204": {"name": "Pineco", "genders": ["Female", "Male"], "forms": []}, "205": {"name": "Forretress", "genders": ["Female", "Male"], "forms": []}, "206": {"name": "Dunsparce", "genders": ["Female", "Male"], "forms": []}, "207": {"name": "Gligar", "genders": ["Female", "Male"], "forms": []}, "208": {"name": "Steelix", "genders": ["Female", "Male"], "forms": []}, "209": {"name": "Snubbull", "genders": ["Female", "Male"], "forms": []}, "210": {"name": "Granbull", "genders": ["Female", "Male"], "forms": []}, "211": {"name": "Qwilfish", "genders": ["Female", "Male"], "forms": []}, "212": {"name": "Scizor", "genders": ["Female", "Male"], "forms": []}, "213": {"name": "Shuckle", "genders": ["Female", "Male"], "forms": []}, "214": {"name": "Heracross", "genders": ["Female", "Male"], "forms": []}, "215": {"name": "Sneasel", "genders": ["Female", "Male"], "forms": []}, "216": {"name": "Teddiursa", "genders": ["Female", "Male"], "forms": []}, "217": {"name": "Ursaring", "genders": ["Female", "Male"], "forms": []}, "218": {"name": "Slugma", "genders": ["Female", "Male"], "forms": []}, "219": {"name": "Magcargo", "genders": ["Female", "Male"], "forms": []}, "220": {"name": "Swinub", "genders": ["Female", "Male"], "forms": []}, "221": {"name": "Piloswine", "genders": ["Female", "Male"], "forms": []}, "222": {"name": "Corsola", "genders": ["Female", "Male"], "forms": []}, "223": {"name": "Remoraid", "genders": ["Female", "Male"], "forms": []}, "224": {"name": "Octillery", "genders": ["Female", "Male"], "forms": []}, "225": {"name": "Delibird", "genders": ["Female", "Male"], "forms": []}, "226": {"name": "Mantine", "genders": ["Female", "Male"], "forms": []}, "227": {"name": "Skarmory", "genders": ["Female", "Male"], "forms": []}, "228": {"name": "Houndour", "genders": ["Female", "Male"], "forms": []}, "229": {"name": "Houndoom", "genders": ["Female", "Male"], "forms": []}, "230": {"name": "Kingdra", "genders": ["Female", "Male"], "forms": []}, "231": {"name": "Phanpy", "genders": ["Female", "Male"], "forms": []}, "232": {"name": "Donphan", "genders": ["Female", "Male"], "forms": []}, "233": {"name": "Porygon2", "genders": ["Genderless"], "forms": []}, "234": {"name": "Stantler", "genders": ["Female", "Male"], "forms": []}, "235": {"name": "Smeargle", "genders": ["Female", "Male"], "forms": []}, "236": {"name": "Tyrogue", "genders": ["Male"], "forms": []}, "237": {"name": "Hitmontop", "genders": ["Male"], "forms": []}, "238": {"name": "Smoochum", "genders": ["Female"], "forms": []}, "239": {"name": "Elekid", "genders": ["Female", "Male"], "forms": []}, "240": {"name": "Magby", "genders": ["Female", "Male"], "forms": []}, "241": {"name": "Miltank", "genders": ["Female"], "forms": []}, "242": {"name": "Blissey", "genders": ["Female"], "forms": []}, "243": {"name": "Raikou", "genders": ["Genderless"], "forms": []}, "244": {"name": "Entei", "genders": ["Genderless"], "forms": []}, "245": {"name": "Suicune", "genders": ["Genderless"], "forms": []}, "246": {"name": "Larvitar", "genders": ["Female", "Male"], "forms": []}, "247": {"name": "Pupitar", "genders": ["Female", "Male"], "forms": []}, "248": {"name": "Tyranitar", "genders": ["Female", "Male"], "forms": []}, "249": {"name": "Lugia", "genders": ["Genderless"], "forms": []}, "250": {"name": "Ho-Oh", "genders": ["Genderless"], "forms": []}, "251": {"name": "Celebi", "genders": ["Genderless"], "forms": []}, "252": {"name": "Treecko", "genders": ["Female", "Male"], "forms": []}, "253": {"name": "Grovyle", "genders": ["Female", "Male"], "forms": []}, "254": {"name": "Sceptile", "genders": ["Female", "Male"], "forms": []}, "255": {"name": "Torchic", "genders": ["Female", "Male"], "forms": []}, "256": {"name": "Combusken", "genders": ["Female", "Male"], "forms": []}, "257": {"name": "Blaziken", "genders": ["Female", "Male"], "forms": []}, "258": {"name": "Mudkip", "genders": ["Female", "Male"], "forms": []}, "259": {"name": "Marshtomp", "genders": ["Female", "Male"], "forms": []}, "260": {"name": "Swampert", "genders": ["Female", "Male"], "forms": []}, "261": {"name": "Poochyena", "genders": ["Female", "Male"], "forms": []}, "262": {"name": "Mightyena", "genders": ["Female", "Male"], "forms": []}, "263": {"name": "Zigzagoon", "genders": ["Female", "Male"], "forms": []}, "264": {"name": "Linoone", "genders": ["Female", "Male"], "forms": []}, "265": {"name": "Wurmple", "genders": ["Female", "Male"], "forms": []}, "266": {"name": "Silcoon", "genders": ["Female", "Male"], "forms": []}, "267": {"name": "Beautifly", "genders": ["Female", "Male"], "forms": []}, "268": {"name": "Cascoon", "genders": ["Female", "Male"], "forms": []}, "269": {"name": "Dustox", "genders": ["Female", "Male"], "forms": []}, "270": {"name": "Lotad", "genders": ["Female", "Male"], "forms": []}, "271": {"name": "Lombre", "genders": ["Female", "Male"], "forms": []}, "272": {"name": "Ludicolo", "genders": ["Female", "Male"], "forms": []}, "273": {"name": "Seedot", "genders": ["Female", "Male"], "forms": []}, "274": {"name": "Nuzleaf", "genders": ["Female", "Male"], "forms": []}, "275": {"name": "Shiftry", "genders": ["Female", "Male"], "forms": []}, "276": {"name": "Taillow", "genders": ["Female", "Male"], "forms": []}, "277": {"name": "Swellow", "genders": ["Female", "Male"], "forms": []}, "278": {"name": "Wingull", "genders": ["Female", "Male"], "forms": []}, "279": {"name": "Pelipper", "genders": ["Female", "Male"], "forms": []}, "280": {"name": "Ralts", "genders": ["Female", "Male"], "forms": []}, "281": {"name": "Kirlia", "genders": ["Female", "Male"], "forms": []}, "282": {"name": "Gardevoir", "genders": ["Female", "Male"], "forms": []}, "283": {"name": "Surskit", "genders": ["Female", "Male"], "forms": []}, "284": {"name": "Masquerain", "genders": ["Female", "Male"], "forms": []}, "285": {"name": "Shroomish", "genders": ["Female", "Male"], "forms": []}, "286": {"name": "Breloom", "genders": ["Female", "Male"], "forms": []}, "287": {"name": "Slakoth", "genders": ["Female", "Male"], "forms": []}, "288": {"name": "Vigoroth", "genders": ["Female", "Male"], "forms": []}, "289": {"name": "Slaking", "genders": ["Female", "Male"], "forms": []}, "290": {"name": "Nincada", "genders": ["Female", "Male"], "forms": []}, "291": {"name": "Ninjask", "genders": ["Female", "Male"], "forms": []}, "292": {"name": "Shedinja", "genders": ["Genderless"], "forms": []}, "293": {"name": "Whismur", "genders": ["Female", "Male"], "forms": []}, "294": {"name": "Loudred", "genders": ["Female", "Male"], "forms": []}, "295": {"name": "Exploud", "genders": ["Female", "Male"], "forms": []}, "296": {"name": "Makuhita", "genders": ["Female", "Male"], "forms": []}, "297": {"name": "Hariyama", "genders": ["Female", "Male"], "forms": []}, "298": {"name": "Azurill", "genders": ["Female", "Male"], "forms": []}, "299": {"name": "Nosepass", "genders": ["Female", "Male"], "forms": []}, "300": {"name": "Skitty", "genders": ["Female", "Male"], "forms": []}, "301": {"name": "Delcatty", "genders": ["Female", "Male"], "forms": []}, "302": {"name": "Sableye", "genders": ["Female", "Male"], "forms": []}, "303": {"name": "Mawile", "genders": ["Female", "Male"], "forms": []}, "304": {"name": "Aron", "genders": ["Female", "Male"], "forms": []}, "305": {"name": "Lairon", "genders": ["Female", "Male"], "forms": []}, "306": {"name": "Aggron", "genders": ["Female", "Male"], "forms": []}, "307": {"name": "Meditite", "genders": ["Female", "Male"], "forms": []}, "308": {"name": "Medicham", "genders": ["Female", "Male"], "forms": []}, "309": {"name": "Electrike", "genders": ["Female", "Male"], "forms": []}, "310": {"name": "Manectric", "genders": ["Female", "Male"], "forms": []}, "311": {"name": "Plusle", "genders": ["Female", "Male"], "forms": []}, "312": {"name": "Minun", "genders": ["Female", "Male"], "forms": []}, "313": {"name": "Volbeat", "genders": ["Male"], "forms": []}, "314": {"name": "Illumise", "genders": ["Female"], "forms": []}, "315": {"name": "Roselia", "genders": ["Female", "Male"], "forms": []}, "316": {"name": "Gulpin", "genders": ["Female", "Male"], "forms": []}, "317": {"name": "Swalot", "genders": ["Female", "Male"], "forms": []}, "318": {"name": "Carvanha", "genders": ["Female", "Male"], "forms": []}, "319": {"name": "Sharpedo", "genders": ["Female", "Male"], "forms": []}, "320": {"name": "Wailmer", "genders": ["Female", "Male"], "forms": []}, "321": {"name": "Wailord", "genders": ["Female", "Male"], "forms": []}, "322": {"name": "Numel", "genders": ["Female", "Male"], "forms": []}, "323": {"name": "Camerupt", "genders": ["Female", "Male"], "forms": []}, "324": {"name": "Torkoal", "genders": ["Female", "Male"], "forms": []}, "325": {"name": "Spoink", "genders": ["Female", "Male"], "forms": []}, "326": {"name": "Grumpig", "genders": ["Female", "Male"], "forms": []}, "327": {"name": "Spinda", "genders": ["Female", "Male"], "forms": []}, "328": {"name": "Trapinch", "genders": ["Female", "Male"], "forms": []}, "329": {"name": "Vibrava", "genders": ["Female", "Male"], "forms": []}, "330": {"name": "Flygon", "genders": ["Female", "Male"], "forms": []}, "331": {"name": "Cacnea", "genders": ["Female", "Male"], "forms": []}, "332": {"name": "Cacturne", "genders": ["Female", "Male"], "forms": []}, "333": {"name": "Swablu", "genders": ["Female", "Male"], "forms": []}, "334": {"name": "Altaria", "genders": ["Female", "Male"], "forms": []}, "335": {"name": "Zangoose", "genders": ["Female", "Male"], "forms": []}, "336": {"name": "Seviper", "genders": ["Female", "Male"], "forms": []}, "337": {"name": "Lunatone", "genders": ["Genderless"], "forms": []}, "338": {"name": "Solrock", "genders": ["Genderless"], "forms": []}, "339": {"name": "Barboach", "genders": ["Female", "Male"], "forms": []}, "340": {"name": "Whiscash", "genders": ["Female", "Male"], "forms": []}, "341": {"name": "Corphish", "genders": ["Female", "Male"], "forms": []}, "342": {"name": "Crawdaunt", "genders": ["Female", "Male"], "forms": []}, "343": {"name": "Baltoy", "genders": ["Genderless"], "forms": []}, "344": {"name": "Claydol", "genders": ["Genderless"], "forms": []}, "345": {"name": "Lileep", "genders": ["Female", "Male"], "forms": []}, "346": {"name": "Cradily", "genders": ["Female", "Male"], "forms": []}, "347": {"name": "Anorith", "genders": ["Female", "Male"], "forms": []}, "348": {"name": "Armaldo", "genders": ["Female", "Male"], "forms": []}, "349": {"name": "Feebas", "genders": ["Female", "Male"], "forms": []}, "350": {"name": "Milotic", "genders": ["Female", "Male"], "forms": []}, "351": {"name": "Castform", "genders": ["Female", "Male"], "forms": ["Normal", "Rainy", "Snowy", "Sunny"]}, "352": {"name": "Kecleon", "genders": ["Female", "Male"], "forms": []}, "353": {"name": "Shuppet", "genders": ["Female", "Male"], "forms": []}, "354": {"name": "Banette", "genders": ["Female", "Male"], "forms": []}, "355": {"name": "Duskull", "genders": ["Female", "Male"], "forms": []}, "356": {"name": "Dusclops", "genders": ["Female", "Male"], "forms": []}, "357": {"name": "Tropius", "genders": ["Female", "Male"], "forms": []}, "358": {"name": "Chimecho", "genders": ["Female", "Male"], "forms": []}, "359": {"name": "Absol", "genders": ["Female", "Male"], "forms": []}, "360": {"name": "Wynaut", "genders": ["Female", "Male"], "forms": []}, "361": {"name": "Snorunt", "genders": ["Female", "Male"], "forms": []}, "362": {"name": "Glalie", "genders": ["Female", "Male"], "forms": []}, "363": {"name": "Spheal", "genders": ["Female", "Male"], "forms": []}, "364": {"name": "Sealeo", "genders": ["Female", "Male"], "forms": []}, "365": {"name": "Walrein", "genders": ["Female", "Male"], "forms": []}, "366": {"name": "Clamperl", "genders": ["Female", "Male"], "forms": []}, "367": {"name": "Huntail", "genders": ["Female", "Male"], "forms": []}, "368": {"name": "Gorebyss", "genders": ["Female", "Male"], "forms": []}, "369": {"name": "Relicanth", "genders": ["Female", "Male"], "forms": []}, "370": {"name": "Luvdisc", "genders": ["Female", "Male"], "forms": []}, "371": {"name": "Bagon", "genders": ["Female", "Male"], "forms": []}, "372": {"name": "Shelgon", "genders": ["Female", "Male"], "forms": []}, "373": {"name": "Salamence", "genders": ["Female", "Male"], "forms": []}, "374": {"name": "Beldum", "genders": ["Genderless"], "forms": []}, "375": {"name": "Metang", "genders": ["Genderless"], "forms": []}, "376": {"name": "Metagross", "genders": ["Genderless"], "forms": []}, "377": {"name": "Regirock", "genders": ["Genderless"], "forms": []}, "378": {"name": "Regice", "genders": ["Genderless"], "forms": []}, "379": {"name": "Registeel", "genders": ["Genderless"], "forms": []}, "380": {"name": "Latias", "genders": ["Female"], "forms": []}, "381": {"name": "Latios", "genders": ["Male"], "forms": []}, "382": {"name": "Kyogre", "genders": ["Genderless"], "forms": []}, "383": {"name": "Groudon", "genders": ["Genderless"], "forms": []}, "384": {"name": "Rayquaza", "genders": ["Genderless"], "forms": []}}
+{
+    "001": {
+        "name": "Bulbasaur",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "002": {
+        "name": "Ivysaur",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "003": {
+        "name": "Venusaur",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "004": {
+        "name": "Charmander",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "005": {
+        "name": "Charmeleon",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "006": {
+        "name": "Charizard",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "007": {
+        "name": "Squirtle",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "008": {
+        "name": "Wartortle",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "009": {
+        "name": "Blastoise",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "010": {
+        "name": "Caterpie",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "011": {
+        "name": "Metapod",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "012": {
+        "name": "Butterfree",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "013": {
+        "name": "Weedle",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "014": {
+        "name": "Kakuna",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "015": {
+        "name": "Beedrill",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "016": {
+        "name": "Pidgey",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "017": {
+        "name": "Pidgeotto",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "018": {
+        "name": "Pidgeot",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "019": {
+        "name": "Rattata",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": [
+            "Alola",
+            "Normal"
+        ]
+    },
+    "020": {
+        "name": "Raticate",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": [
+            "Alola",
+            "Normal"
+        ]
+    },
+    "021": {
+        "name": "Spearow",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "022": {
+        "name": "Fearow",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "023": {
+        "name": "Ekans",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "024": {
+        "name": "Arbok",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "025": {
+        "name": "Pikachu",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "026": {
+        "name": "Raichu",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": [
+            "Alola",
+            "Normal"
+        ]
+    },
+    "027": {
+        "name": "Sandshrew",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": [
+            "Alola",
+            "Normal"
+        ]
+    },
+    "028": {
+        "name": "Sandslash",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": [
+            "Alola",
+            "Normal"
+        ]
+    },
+    "029": {
+        "name": "Nidoran\u2640",
+        "genders": [
+            "Female"
+        ],
+        "forms": []
+    },
+    "030": {
+        "name": "Nidorina",
+        "genders": [
+            "Female"
+        ],
+        "forms": []
+    },
+    "031": {
+        "name": "Nidoqueen",
+        "genders": [
+            "Female"
+        ],
+        "forms": []
+    },
+    "032": {
+        "name": "Nidoran\u2642",
+        "genders": [
+            "Male"
+        ],
+        "forms": []
+    },
+    "033": {
+        "name": "Nidorino",
+        "genders": [
+            "Male"
+        ],
+        "forms": []
+    },
+    "034": {
+        "name": "Nidoking",
+        "genders": [
+            "Male"
+        ],
+        "forms": []
+    },
+    "035": {
+        "name": "Clefairy",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "036": {
+        "name": "Clefable",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "037": {
+        "name": "Vulpix",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": [
+            "Alola",
+            "Normal"
+        ]
+    },
+    "038": {
+        "name": "Ninetales",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": [
+            "Alola",
+            "Normal"
+        ]
+    },
+    "039": {
+        "name": "Jigglypuff",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "040": {
+        "name": "Wigglytuff",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "041": {
+        "name": "Zubat",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "042": {
+        "name": "Golbat",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "043": {
+        "name": "Oddish",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "044": {
+        "name": "Gloom",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "045": {
+        "name": "Vileplume",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "046": {
+        "name": "Paras",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "047": {
+        "name": "Parasect",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "048": {
+        "name": "Venonat",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "049": {
+        "name": "Venomoth",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "050": {
+        "name": "Diglett",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": [
+            "Alola",
+            "Normal"
+        ]
+    },
+    "051": {
+        "name": "Dugtrio",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": [
+            "Alola",
+            "Normal"
+        ]
+    },
+    "052": {
+        "name": "Meowth",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": [
+            "Alola",
+            "Normal"
+        ]
+    },
+    "053": {
+        "name": "Persian",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": [
+            "Alola",
+            "Normal"
+        ]
+    },
+    "054": {
+        "name": "Psyduck",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "055": {
+        "name": "Golduck",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "056": {
+        "name": "Mankey",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "057": {
+        "name": "Primeape",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "058": {
+        "name": "Growlithe",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "059": {
+        "name": "Arcanine",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "060": {
+        "name": "Poliwag",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "061": {
+        "name": "Poliwhirl",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "062": {
+        "name": "Poliwrath",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "063": {
+        "name": "Abra",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "064": {
+        "name": "Kadabra",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "065": {
+        "name": "Alakazam",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "066": {
+        "name": "Machop",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "067": {
+        "name": "Machoke",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "068": {
+        "name": "Machamp",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "069": {
+        "name": "Bellsprout",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "070": {
+        "name": "Weepinbell",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "071": {
+        "name": "Victreebel",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "072": {
+        "name": "Tentacool",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "073": {
+        "name": "Tentacruel",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "074": {
+        "name": "Geodude",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": [
+            "Alola",
+            "Normal"
+        ]
+    },
+    "075": {
+        "name": "Graveler",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": [
+            "Alola",
+            "Normal"
+        ]
+    },
+    "076": {
+        "name": "Golem",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": [
+            "Alola",
+            "Normal"
+        ]
+    },
+    "077": {
+        "name": "Ponyta",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "078": {
+        "name": "Rapidash",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "079": {
+        "name": "Slowpoke",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "080": {
+        "name": "Slowbro",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "081": {
+        "name": "Magnemite",
+        "genders": [
+            "Genderless"
+        ],
+        "forms": []
+    },
+    "082": {
+        "name": "Magneton",
+        "genders": [
+            "Genderless"
+        ],
+        "forms": []
+    },
+    "083": {
+        "name": "Farfetch'd",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "084": {
+        "name": "Doduo",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "085": {
+        "name": "Dodrio",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "086": {
+        "name": "Seel",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "087": {
+        "name": "Dewgong",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "088": {
+        "name": "Grimer",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": [
+            "Alola",
+            "Normal"
+        ]
+    },
+    "089": {
+        "name": "Muk",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": [
+            "Alola",
+            "Normal"
+        ]
+    },
+    "090": {
+        "name": "Shellder",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "091": {
+        "name": "Cloyster",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "092": {
+        "name": "Gastly",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "093": {
+        "name": "Haunter",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "094": {
+        "name": "Gengar",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "095": {
+        "name": "Onix",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "096": {
+        "name": "Drowzee",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "097": {
+        "name": "Hypno",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "098": {
+        "name": "Krabby",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "099": {
+        "name": "Kingler",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "100": {
+        "name": "Voltorb",
+        "genders": [
+            "Genderless"
+        ],
+        "forms": []
+    },
+    "101": {
+        "name": "Electrode",
+        "genders": [
+            "Genderless"
+        ],
+        "forms": []
+    },
+    "102": {
+        "name": "Exeggcute",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "103": {
+        "name": "Exeggutor",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": [
+            "Alola",
+            "Normal"
+        ]
+    },
+    "104": {
+        "name": "Cubone",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "105": {
+        "name": "Marowak",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": [
+            "Alola",
+            "Normal"
+        ]
+    },
+    "106": {
+        "name": "Hitmonlee",
+        "genders": [
+            "Male"
+        ],
+        "forms": []
+    },
+    "107": {
+        "name": "Hitmonchan",
+        "genders": [
+            "Male"
+        ],
+        "forms": []
+    },
+    "108": {
+        "name": "Lickitung",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "109": {
+        "name": "Koffing",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "110": {
+        "name": "Weezing",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "111": {
+        "name": "Rhyhorn",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "112": {
+        "name": "Rhydon",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "113": {
+        "name": "Chansey",
+        "genders": [
+            "Female"
+        ],
+        "forms": []
+    },
+    "114": {
+        "name": "Tangela",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "115": {
+        "name": "Kangaskhan",
+        "genders": [
+            "Female"
+        ],
+        "forms": []
+    },
+    "116": {
+        "name": "Horsea",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "117": {
+        "name": "Seadra",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "118": {
+        "name": "Goldeen",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "119": {
+        "name": "Seaking",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "120": {
+        "name": "Staryu",
+        "genders": [
+            "Genderless"
+        ],
+        "forms": []
+    },
+    "121": {
+        "name": "Starmie",
+        "genders": [
+            "Genderless"
+        ],
+        "forms": []
+    },
+    "122": {
+        "name": "Mr. Mime",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "123": {
+        "name": "Scyther",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "124": {
+        "name": "Jynx",
+        "genders": [
+            "Female"
+        ],
+        "forms": []
+    },
+    "125": {
+        "name": "Electabuzz",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "126": {
+        "name": "Magmar",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "127": {
+        "name": "Pinsir",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "128": {
+        "name": "Tauros",
+        "genders": [
+            "Male"
+        ],
+        "forms": []
+    },
+    "129": {
+        "name": "Magikarp",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "130": {
+        "name": "Gyarados",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "131": {
+        "name": "Lapras",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "132": {
+        "name": "Ditto",
+        "genders": [
+            "Genderless"
+        ],
+        "forms": []
+    },
+    "133": {
+        "name": "Eevee",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "134": {
+        "name": "Vaporeon",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "135": {
+        "name": "Jolteon",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "136": {
+        "name": "Flareon",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "137": {
+        "name": "Porygon",
+        "genders": [
+            "Genderless"
+        ],
+        "forms": []
+    },
+    "138": {
+        "name": "Omanyte",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "139": {
+        "name": "Omastar",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "140": {
+        "name": "Kabuto",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "141": {
+        "name": "Kabutops",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "142": {
+        "name": "Aerodactyl",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "143": {
+        "name": "Snorlax",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "144": {
+        "name": "Articuno",
+        "genders": [
+            "Genderless"
+        ],
+        "forms": []
+    },
+    "145": {
+        "name": "Zapdos",
+        "genders": [
+            "Genderless"
+        ],
+        "forms": []
+    },
+    "146": {
+        "name": "Moltres",
+        "genders": [
+            "Genderless"
+        ],
+        "forms": []
+    },
+    "147": {
+        "name": "Dratini",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "148": {
+        "name": "Dragonair",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "149": {
+        "name": "Dragonite",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "150": {
+        "name": "Mewtwo",
+        "genders": [
+            "Genderless"
+        ],
+        "forms": []
+    },
+    "151": {
+        "name": "Mew",
+        "genders": [
+            "Genderless"
+        ],
+        "forms": []
+    },
+    "152": {
+        "name": "Chikorita",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "153": {
+        "name": "Bayleef",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "154": {
+        "name": "Meganium",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "155": {
+        "name": "Cyndaquil",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "156": {
+        "name": "Quilava",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "157": {
+        "name": "Typhlosion",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "158": {
+        "name": "Totodile",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "159": {
+        "name": "Croconaw",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "160": {
+        "name": "Feraligatr",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "161": {
+        "name": "Sentret",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "162": {
+        "name": "Furret",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "163": {
+        "name": "Hoothoot",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "164": {
+        "name": "Noctowl",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "165": {
+        "name": "Ledyba",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "166": {
+        "name": "Ledian",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "167": {
+        "name": "Spinarak",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "168": {
+        "name": "Ariados",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "169": {
+        "name": "Crobat",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "170": {
+        "name": "Chinchou",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "171": {
+        "name": "Lanturn",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "172": {
+        "name": "Pichu",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "173": {
+        "name": "Cleffa",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "174": {
+        "name": "Igglybuff",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "175": {
+        "name": "Togepi",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "176": {
+        "name": "Togetic",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "177": {
+        "name": "Natu",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "178": {
+        "name": "Xatu",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "179": {
+        "name": "Mareep",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "180": {
+        "name": "Flaaffy",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "181": {
+        "name": "Ampharos",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "182": {
+        "name": "Bellossom",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "183": {
+        "name": "Marill",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "184": {
+        "name": "Azumarill",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "185": {
+        "name": "Sudowoodo",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "186": {
+        "name": "Politoed",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "187": {
+        "name": "Hoppip",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "188": {
+        "name": "Skiploom",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "189": {
+        "name": "Jumpluff",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "190": {
+        "name": "Aipom",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "191": {
+        "name": "Sunkern",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "192": {
+        "name": "Sunflora",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "193": {
+        "name": "Yanma",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "194": {
+        "name": "Wooper",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "195": {
+        "name": "Quagsire",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "196": {
+        "name": "Espeon",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "197": {
+        "name": "Umbreon",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "198": {
+        "name": "Murkrow",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "199": {
+        "name": "Slowking",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "200": {
+        "name": "Misdreavus",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "201": {
+        "name": "Unown",
+        "genders": [
+            "Genderless"
+        ],
+        "forms": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J",
+            "K",
+            "L",
+            "M",
+            "N",
+            "O",
+            "P",
+            "Q",
+            "R",
+            "S",
+            "T",
+            "U",
+            "V",
+            "W",
+            "X",
+            "Y",
+            "Z",
+            "!",
+            "?"
+        ]
+    },
+    "202": {
+        "name": "Wobbuffet",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "203": {
+        "name": "Girafarig",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "204": {
+        "name": "Pineco",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "205": {
+        "name": "Forretress",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "206": {
+        "name": "Dunsparce",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "207": {
+        "name": "Gligar",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "208": {
+        "name": "Steelix",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "209": {
+        "name": "Snubbull",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "210": {
+        "name": "Granbull",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "211": {
+        "name": "Qwilfish",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "212": {
+        "name": "Scizor",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "213": {
+        "name": "Shuckle",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "214": {
+        "name": "Heracross",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "215": {
+        "name": "Sneasel",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "216": {
+        "name": "Teddiursa",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "217": {
+        "name": "Ursaring",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "218": {
+        "name": "Slugma",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "219": {
+        "name": "Magcargo",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "220": {
+        "name": "Swinub",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "221": {
+        "name": "Piloswine",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "222": {
+        "name": "Corsola",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "223": {
+        "name": "Remoraid",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "224": {
+        "name": "Octillery",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "225": {
+        "name": "Delibird",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "226": {
+        "name": "Mantine",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "227": {
+        "name": "Skarmory",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "228": {
+        "name": "Houndour",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "229": {
+        "name": "Houndoom",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "230": {
+        "name": "Kingdra",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "231": {
+        "name": "Phanpy",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "232": {
+        "name": "Donphan",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "233": {
+        "name": "Porygon2",
+        "genders": [
+            "Genderless"
+        ],
+        "forms": []
+    },
+    "234": {
+        "name": "Stantler",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "235": {
+        "name": "Smeargle",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "236": {
+        "name": "Tyrogue",
+        "genders": [
+            "Male"
+        ],
+        "forms": []
+    },
+    "237": {
+        "name": "Hitmontop",
+        "genders": [
+            "Male"
+        ],
+        "forms": []
+    },
+    "238": {
+        "name": "Smoochum",
+        "genders": [
+            "Female"
+        ],
+        "forms": []
+    },
+    "239": {
+        "name": "Elekid",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "240": {
+        "name": "Magby",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "241": {
+        "name": "Miltank",
+        "genders": [
+            "Female"
+        ],
+        "forms": []
+    },
+    "242": {
+        "name": "Blissey",
+        "genders": [
+            "Female"
+        ],
+        "forms": []
+    },
+    "243": {
+        "name": "Raikou",
+        "genders": [
+            "Genderless"
+        ],
+        "forms": []
+    },
+    "244": {
+        "name": "Entei",
+        "genders": [
+            "Genderless"
+        ],
+        "forms": []
+    },
+    "245": {
+        "name": "Suicune",
+        "genders": [
+            "Genderless"
+        ],
+        "forms": []
+    },
+    "246": {
+        "name": "Larvitar",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "247": {
+        "name": "Pupitar",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "248": {
+        "name": "Tyranitar",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "249": {
+        "name": "Lugia",
+        "genders": [
+            "Genderless"
+        ],
+        "forms": []
+    },
+    "250": {
+        "name": "Ho-Oh",
+        "genders": [
+            "Genderless"
+        ],
+        "forms": []
+    },
+    "251": {
+        "name": "Celebi",
+        "genders": [
+            "Genderless"
+        ],
+        "forms": []
+    },
+    "252": {
+        "name": "Treecko",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "253": {
+        "name": "Grovyle",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "254": {
+        "name": "Sceptile",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "255": {
+        "name": "Torchic",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "256": {
+        "name": "Combusken",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "257": {
+        "name": "Blaziken",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "258": {
+        "name": "Mudkip",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "259": {
+        "name": "Marshtomp",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "260": {
+        "name": "Swampert",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "261": {
+        "name": "Poochyena",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "262": {
+        "name": "Mightyena",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "263": {
+        "name": "Zigzagoon",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "264": {
+        "name": "Linoone",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "265": {
+        "name": "Wurmple",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "266": {
+        "name": "Silcoon",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "267": {
+        "name": "Beautifly",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "268": {
+        "name": "Cascoon",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "269": {
+        "name": "Dustox",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "270": {
+        "name": "Lotad",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "271": {
+        "name": "Lombre",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "272": {
+        "name": "Ludicolo",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "273": {
+        "name": "Seedot",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "274": {
+        "name": "Nuzleaf",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "275": {
+        "name": "Shiftry",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "276": {
+        "name": "Taillow",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "277": {
+        "name": "Swellow",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "278": {
+        "name": "Wingull",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "279": {
+        "name": "Pelipper",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "280": {
+        "name": "Ralts",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "281": {
+        "name": "Kirlia",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "282": {
+        "name": "Gardevoir",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "283": {
+        "name": "Surskit",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "284": {
+        "name": "Masquerain",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "285": {
+        "name": "Shroomish",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "286": {
+        "name": "Breloom",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "287": {
+        "name": "Slakoth",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "288": {
+        "name": "Vigoroth",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "289": {
+        "name": "Slaking",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "290": {
+        "name": "Nincada",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "291": {
+        "name": "Ninjask",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "292": {
+        "name": "Shedinja",
+        "genders": [
+            "Genderless"
+        ],
+        "forms": []
+    },
+    "293": {
+        "name": "Whismur",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "294": {
+        "name": "Loudred",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "295": {
+        "name": "Exploud",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "296": {
+        "name": "Makuhita",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "297": {
+        "name": "Hariyama",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "298": {
+        "name": "Azurill",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "299": {
+        "name": "Nosepass",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "300": {
+        "name": "Skitty",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "301": {
+        "name": "Delcatty",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "302": {
+        "name": "Sableye",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "303": {
+        "name": "Mawile",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "304": {
+        "name": "Aron",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "305": {
+        "name": "Lairon",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "306": {
+        "name": "Aggron",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "307": {
+        "name": "Meditite",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "308": {
+        "name": "Medicham",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "309": {
+        "name": "Electrike",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "310": {
+        "name": "Manectric",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "311": {
+        "name": "Plusle",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "312": {
+        "name": "Minun",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "313": {
+        "name": "Volbeat",
+        "genders": [
+            "Male"
+        ],
+        "forms": []
+    },
+    "314": {
+        "name": "Illumise",
+        "genders": [
+            "Female"
+        ],
+        "forms": []
+    },
+    "315": {
+        "name": "Roselia",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "316": {
+        "name": "Gulpin",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "317": {
+        "name": "Swalot",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "318": {
+        "name": "Carvanha",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "319": {
+        "name": "Sharpedo",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "320": {
+        "name": "Wailmer",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "321": {
+        "name": "Wailord",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "322": {
+        "name": "Numel",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "323": {
+        "name": "Camerupt",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "324": {
+        "name": "Torkoal",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "325": {
+        "name": "Spoink",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "326": {
+        "name": "Grumpig",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "327": {
+        "name": "Spinda",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "328": {
+        "name": "Trapinch",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "329": {
+        "name": "Vibrava",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "330": {
+        "name": "Flygon",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "331": {
+        "name": "Cacnea",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "332": {
+        "name": "Cacturne",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "333": {
+        "name": "Swablu",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "334": {
+        "name": "Altaria",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "335": {
+        "name": "Zangoose",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "336": {
+        "name": "Seviper",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "337": {
+        "name": "Lunatone",
+        "genders": [
+            "Genderless"
+        ],
+        "forms": []
+    },
+    "338": {
+        "name": "Solrock",
+        "genders": [
+            "Genderless"
+        ],
+        "forms": []
+    },
+    "339": {
+        "name": "Barboach",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "340": {
+        "name": "Whiscash",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "341": {
+        "name": "Corphish",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "342": {
+        "name": "Crawdaunt",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "343": {
+        "name": "Baltoy",
+        "genders": [
+            "Genderless"
+        ],
+        "forms": []
+    },
+    "344": {
+        "name": "Claydol",
+        "genders": [
+            "Genderless"
+        ],
+        "forms": []
+    },
+    "345": {
+        "name": "Lileep",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "346": {
+        "name": "Cradily",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "347": {
+        "name": "Anorith",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "348": {
+        "name": "Armaldo",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "349": {
+        "name": "Feebas",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "350": {
+        "name": "Milotic",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "351": {
+        "name": "Castform",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": [
+            "Normal",
+            "Rainy",
+            "Snowy",
+            "Sunny"
+        ]
+    },
+    "352": {
+        "name": "Kecleon",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "353": {
+        "name": "Shuppet",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "354": {
+        "name": "Banette",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "355": {
+        "name": "Duskull",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "356": {
+        "name": "Dusclops",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "357": {
+        "name": "Tropius",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "358": {
+        "name": "Chimecho",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "359": {
+        "name": "Absol",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "360": {
+        "name": "Wynaut",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "361": {
+        "name": "Snorunt",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "362": {
+        "name": "Glalie",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "363": {
+        "name": "Spheal",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "364": {
+        "name": "Sealeo",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "365": {
+        "name": "Walrein",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "366": {
+        "name": "Clamperl",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "367": {
+        "name": "Huntail",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "368": {
+        "name": "Gorebyss",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "369": {
+        "name": "Relicanth",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "370": {
+        "name": "Luvdisc",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "371": {
+        "name": "Bagon",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "372": {
+        "name": "Shelgon",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "373": {
+        "name": "Salamence",
+        "genders": [
+            "Female",
+            "Male"
+        ],
+        "forms": []
+    },
+    "374": {
+        "name": "Beldum",
+        "genders": [
+            "Genderless"
+        ],
+        "forms": []
+    },
+    "375": {
+        "name": "Metang",
+        "genders": [
+            "Genderless"
+        ],
+        "forms": []
+    },
+    "376": {
+        "name": "Metagross",
+        "genders": [
+            "Genderless"
+        ],
+        "forms": []
+    },
+    "377": {
+        "name": "Regirock",
+        "genders": [
+            "Genderless"
+        ],
+        "forms": []
+    },
+    "378": {
+        "name": "Regice",
+        "genders": [
+            "Genderless"
+        ],
+        "forms": []
+    },
+    "379": {
+        "name": "Registeel",
+        "genders": [
+            "Genderless"
+        ],
+        "forms": []
+    },
+    "380": {
+        "name": "Latias",
+        "genders": [
+            "Female"
+        ],
+        "forms": []
+    },
+    "381": {
+        "name": "Latios",
+        "genders": [
+            "Male"
+        ],
+        "forms": []
+    },
+    "382": {
+        "name": "Kyogre",
+        "genders": [
+            "Genderless"
+        ],
+        "forms": []
+    },
+    "383": {
+        "name": "Groudon",
+        "genders": [
+            "Genderless"
+        ],
+        "forms": []
+    },
+    "384": {
+        "name": "Rayquaza",
+        "genders": [
+            "Genderless"
+        ],
+        "forms": []
+    }
+}

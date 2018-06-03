@@ -23,6 +23,20 @@ function getPokemonKey (e) {
 
 	return "pokemon" + pid + form + gender + shiny;
 }
+
+function updateStats() {
+	var total_species = $("tr[data-pid]").length;
+	var total_all = $(".flex-item").length;
+	var owned = $(".flex-item > div[data-owned]").length;
+	var species_owned = $("tr[data-pid]:has(div[data-owned])").length;
+
+	var stats = $("#stats");
+	stats.find("td.stats-owned").text(owned);
+	stats.find("td.stats-species-owned").text(species_owned);
+	stats.find("td.stats-total-species").text(total_species);
+	stats.find("td.stats-total-all").text(total_all);
+}
+
 $(function() {
 	$("div.flex-item").click(function () {
 		var div = $(this).find("div.owned");
@@ -45,7 +59,17 @@ $(function() {
 	// Load saved data
 	$("tr[data-pid]").each(function() {
 		$(this).find(".flex-item").each(function() {
-			var state = localStorage.getItem(getPokemonKey(this));
+			var key = getPokemonKey(this);
+			var state = localStorage.getItem(key);
+			// This is to deal with Alolan forms being added
+			// So we update the normal form with the value of the old one
+			if (key.includes("_Normal")) {
+				var state2 = localStorage.getItem(key.replace("_Normal", ""));
+				if (state2 == "1") {
+					localStorage.setItem(key, 1);
+					state = "1";
+				}
+			}
 			if (state == "1") {
 				$(this).find("div.owned").attr("data-owned", "");
 			}
@@ -54,16 +78,3 @@ $(function() {
 
 	updateStats();
 });
-
-function updateStats() {
-	var total_species = $("tr[data-pid]").length;
-	var total_all = $(".flex-item").length;
-	var owned = $(".flex-item > div[data-owned]").length;
-	var species_owned = $("tr[data-pid]:has(div[data-owned])").length;
-
-	var stats = $("#stats");
-	stats.find("td.stats-owned").text(owned);
-	stats.find("td.stats-species-owned").text(species_owned);
-	stats.find("td.stats-total-species").text(total_species);
-	stats.find("td.stats-total-all").text(total_all);
-}
